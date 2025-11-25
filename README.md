@@ -27,10 +27,14 @@ This repository contains the C# server SDK plugin for integration with a Unity g
 
 Download the plugin variant that best fits your project requirements from the Releases page of this repository.
 
+Telemetry metrics collection is supported by both plugins for comprehensive observability of your game servers. Use pre-built
+Amazon Managed Grafana dashboards to monitor game server performance. For setup instructions, [see the Telemetry Metrics Guide](./TelemetryMetrics/METRICS.md).
+
 ## Amazon GameLift Servers Resources
 
 * [About Amazon GameLift Servers](https://aws.amazon.com/gamelift/)
 * [Amazon GameLift Servers plugin guide](https://docs.aws.amazon.com/gamelift/latest/developerguide/unity-plug-in.html)
+* [Telemetry Metrics Setup Guide](./TelemetryMetrics/METRICS.md)
 * [AWS Game Tech forum](https://repost.aws/topics/TAo6ggvxz6QQizjo9YIMD35A/game-tech/c/amazon-gamelift)
 * [AWS for Games blog](https://aws.amazon.com/blogs/gametech/)
 * [AWS Support Center](https://console.aws.amazon.com/support/home)

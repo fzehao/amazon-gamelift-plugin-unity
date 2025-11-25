@@ -200,6 +200,8 @@ You can enable server metrics (performance, players/sessions, memory, and networ
 - Default tags and out‑of‑the‑box metrics: [default_tags_and_metrics.md](../TelemetryMetrics/default_tags_and_metrics.md)
 - Network instrumentation (bytes/packets/connection counts): [network_stats.md](../TelemetryMetrics/network_stats.md)
 
+![Telemetry Metrics on Amazon Grafana Dashboard](../TelemetryMetrics/telemetry_metrics.png)
+
 ## Troubleshooting
 
 ### Seeing 100% CPU utilization on a server written using Unity.
